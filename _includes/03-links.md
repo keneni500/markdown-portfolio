@@ -1,1 +1,1 @@
-[github]https://github.com/keneni500
+[text]https://github.com/keneni500
